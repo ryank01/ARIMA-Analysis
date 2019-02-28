@@ -10,6 +10,9 @@ ARIMA stands for auto-regressive integrated moving average. It is simply a forec
 projects future values based on it's ability to remain the unchanged.
 
 ## Testing
+Clone this repository and activate the virtual environment.
 ```
-git clone
+~/your-dir$ git clone git@github.com:ryank01/ARIMA-Analysis.git
+~/your-dir$ cd ARIMA-Analysis
+~/ARIMA-Analysis$ source env/bin/activate
 ```
